@@ -1,0 +1,783 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carmina vestalia being three epistles to Harmonia, Corinna, and Sophronia, &amp;c. / by a person of quality ; to which are added several poems by another hand.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34424</idno>
+            <idno type="STC">Wing C603</idno>
+            <idno type="STC">ESTC R40306</idno>
+            <idno type="EEBO-CITATION">18832325</idno>
+            <idno type="OCLC">ocm 18832325</idno>
+            <idno type="VID">108400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108400)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1663:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Carmina vestalia being three epistles to Harmonia, Corinna, and Sophronia, &amp;c. / by a person of quality ; to which are added several poems by another hand.</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by J. Nutt ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>(from t.p.) The contents. 1. To Harmonia, Mrs. P---son -- 2. To Corinna, Mrs. B----ny -- 3. To Sophronia, Mrs. S---mes -- 4. On the young Duke of Holstein, which I saw at the acadamy in Holland, in the year, 1692 -- 5. To a young gentleman who recommended Sir Philip Sidney's Pembrooks Arcadia to my reading -- 6. Thirsis and Corydon -- 7. To a young lady who desired me to send her Pastor-fido -- 8. Upon a young lady playing on the espinette -- 9. Upon a young lady leaving England -- 10. Upon the death of Mrs. Anne P----ch -- 11. The visit -- 12. Philomela -- 13. To make a married life happy -- 14. A dream -- 15. The miseries attending mankind -- 16. To himself -- 17. On a lady stabbing her self.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108400:1" rendition="simple:additions"/>
+            <p>Carmina Veſtalia.</p>
+            <p>BEING THREE EPISTLES TO <hi>HARMONIA, CORINNA,</hi> AND <hi>SOPHRONIA,</hi> &amp;c.</p>
+            <p>
+               <hi>By a Perſon of Quality.</hi>
+            </p>
+            <q>
+               <l>Ab Jove Principium Muſae, Jovis omnia plena;</l>
+               <l>Ille colet Terras, ille mea carmina curae.</l>
+               <bibl>P. Verg. Palaemon.</bibl>
+            </q>
+            <p>To which are added ſeveral POEMS by another Hand.</p>
+            <list>
+               <head>The CONTENTS.</head>
+               <item>1. <hi>To</hi> Harmonia, <hi>Mrs.</hi> P—ſon.</item>
+               <item>2. <hi>To</hi> Corinna, <hi>Mrs.</hi> B—ny.</item>
+               <item>3. <hi>To</hi> Sophronia, <hi>Mrs.</hi> S—mes.</item>
+               <item>4. <hi>On the young Duke of</hi> Holſtein, <hi>which I ſaw at the Acadamy in</hi> Holland, <hi>in the Year,</hi> 1692.</item>
+               <item>5. <hi>To a young Gentleman who re<g ref="char:EOLhyphen"/>commended Sir</hi> Philip Sidney's Pembrooks <hi>Arcadia to my reading.</hi>
+               </item>
+               <item>6. Thirſis <hi>and</hi> Corydon.</item>
+               <item>7. <hi>To a young Lady who deſired me to ſend her</hi> Paſtor Fido.</item>
+               <item>8. <hi>
+                     <g ref="char:V">Ʋ</g>pon a young Lady playing on the Eſpinette.</hi>
+               </item>
+               <item>9. <hi>
+                     <g ref="char:V">Ʋ</g>pon a young Lady leaving</hi> England.</item>
+               <item>10. <hi>
+                     <g ref="char:V">Ʋ</g>pon the Death of Mrs.</hi> Anne P—ch.</item>
+               <item>11. <hi>The VISIT.</hi>
+               </item>
+               <item>12. Philomela.</item>
+               <item>13. <hi>To make a Married Life happy.</hi>
+               </item>
+               <item>14. <hi>A Dream.</hi>
+               </item>
+               <item>15. <hi>The Miſeries attending Man<g ref="char:EOLhyphen"/>kind.</hi>
+               </item>
+               <item>16. <hi>To Himſelf.</hi>
+               </item>
+               <item>17. <hi>On a Lady Stabbing her ſelf.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>J. Nutt,</hi> near <hi>Stationers-Hall,</hi> 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:108400:2"/>
+            <pb facs="tcp:108400:2"/>
+            <head>To <hi>Ceſaria</hi> and her Siſter,</head>
+            <p>THE Deſign of theſe inſuing Epiſtles was, at once to ſhow the Misfortune of the Poet, and (by three Illuſtrious Virgins) the ſupreme Excellency of the Female Sex, in the glorious and elevated Rank of which, both <hi>Myrtilla</hi> and your ſelf claim the higheſt reſpect, Homage and Adoration, that poſſibly can be paid to the Tranſcendent, and ingageing Charmes of Beauty, Innocence, or Goodneſs. Man in his firſt State in the delightful and exuberant Garden of <hi>Eden,</hi> where (as <hi>Milton</hi> expreſſes it) <hi>He was on every ſide ſurrounded with enor<g ref="char:EOLhyphen"/>mous Bliſs;</hi> yet notwithſtanding all thoſe paridiſaical Pleaſures he injoy'd, there was ſomething ſtill wanting to add too, and compleat his Happineſs: Wherefore upon the mature and deli<g ref="char:EOLhyphen"/>berate Thought of Heaven, what ſhould this remaining part of his Felicity be, but the privation or abſence of his afterwards? So admired <hi>Eue,</hi> and verily the beſt and greateſt of Men in all Ages of the World, ſince the Times of the original Pair, have ever acknowledg'd as juſtly due the greateſt difference to Your moſt beautious Sex. For indeed, let the ſmaller Poets diſcant ne<g ref="char:EOLhyphen"/>ver ſo much on the Praiſe of Mau, or let the Orators by the Elo<g ref="char:EOLhyphen"/>quence of the Chair, magnifie him to the higheſt Degree and pitch they are able, yet I will be bold to Affirm, Woman in Beauty does as far ſurmount and exceed Man, as the more pure and bright Regions above ſurpaſs theſe the more thick and groſs here below. Kings have laid their Crowns, Princes their Scep<g ref="char:EOLhyphen"/>ters, and Generals their Wreaths at the Feet of the fair <hi>Cleopa<g ref="char:EOLhyphen"/>tra: Numa,</hi> (who inſtituted the Holy Fire) had his Mountain Nymph, and if I may be allow'd to ſay as much, it being my aim only (I aſſure you by <hi>Apollo</hi> and his ſilver Bow) to manifeſt the extream force and power of Beauty, <hi>Henry</hi> the Second of <hi>England</hi> had his admir'd <hi>Roſamond,</hi> and from whoſe very Room out of which ſhe went to <hi>Woodſtock</hi> Bower and was there Poiſoned by Queen <hi>Elinor,</hi> I am now writing to you this Epiſtle, yet <hi>Cleopatra</hi> the delight of Emperors and joy of Kings was inferiour to; and had not envious Time (the mortal Enemy to all Beauty's) by placing theſe two lively Images of the Deity
+<pb facs="tcp:108400:3"/>at ſo great a diſtance the one from the other put it out of the reach and height of compare, <hi>Cleopatra</hi> ſurely might have borrow'd Charmes from the more beautiful <hi>Ceſaria,</hi> and <hi>Roſamond</hi> have ſupply'd with the clear ſhining Light and Fire of <hi>Myrtilla's</hi> Eyes, thoſe of the yet infinitely more feeble and languid Flames of her own; nay, even the Grecian <hi>Hellen,</hi> were it poſſible for her to behold in theſe ſweet Arcadian Groves, the noble and ex<g ref="char:EOLhyphen"/>quiſite Form of the incomparable <hi>Ceſaria,</hi> with the no leſs won<g ref="char:EOLhyphen"/>derful <hi>Myrtilla,</hi> would eaſily confeſs, and readily grant, that the united Charmes of the whole fair Sex together, was immenſly viſible (in theſe two Virgin Siſters) nay, almoſt wholly conſiſted in <hi>Ceſaria's</hi> and <hi>Myrtilla's</hi> Eyes: Wherefore fair Nymphs, may it pleaſe you to accept of, and Patroniſe theſe few Poems, and by the condeſcending to which requeſt, you will greatly oblige him who is, with all imaginable Zeal, Sincerity and Reſpect, O immaculate Nymphs and faireſt of all Women,</p>
+            <closer>
+               <signed>Your moſt Humble, moſt Obedient, and intirely Devoted Servant and Vaſſel,</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:108400:3"/>
+            <head>Carmina Veſtalia. Being Three Epiſtles, <hi>&amp;c.</hi>
+            </head>
+            <div type="poem">
+               <head>To <hi>Harmonia,</hi> Mrs. <hi>P—ſon.</hi>
+               </head>
+               <lg>
+                  <l>O SACRED Image of divineſt Love,</l>
+                  <l>Emblem of thoſe all-glorious Saints above,</l>
+                  <l>Which i'th bright, the pureſt Tracts of Heaven move.</l>
+                  <l>As thine leſs melting were
+<note n="*" place="margin">
+                        <hi>Title of</hi> Ve<g ref="char:EOLhyphen"/>nus.</note> 
+                     <hi>Cyllenias</hi> Charms,</l>
+                  <l>When <hi>Cupid</hi> ſlept within her tender Arms:</l>
+                  <l>Playing about the Hive, a Queen-Bee ſtung,</l>
+                  <l>His Finger, who complaining of the wrong.</l>
+                  <l>She kiſt the Wound, and preſt him to her Breaſt,</l>
+                  <l>Where the God gently lean'd his Head to reſt.</l>
+                  <l>Around her balmy Neck his Hands were laid,</l>
+                  <l>Pure as the Thought of an unſpotted Maid.</l>
+                  <l>On whoſe ſoft Boſom lull'd in ſweet delight,</l>
+                  <l>He ſooth'd his pain, and vanquiſh'd all his fright.</l>
+                  <l>Once
+<note n="*" place="margin">
+                        <hi>Another of</hi> Venus <hi>her Ti<g ref="char:EOLhyphen"/>les.</hi>
+                     </note> 
+                     <hi>Cytherea</hi> Queen of Beauty reign'd,</l>
+                  <l>Tho' now <hi>Harmonia</hi>'s Eyes the prize have gain'd.</l>
+                  <l>Ador'd through all the wide <hi>Arcadian</hi> Plain,</l>
+                  <l>Joy of the Nymphs, delight of ev'ry Swain.</l>
+                  <l>So exquiſite her Form and Beauty is,</l>
+                  <l>That ſhe in poppy Groves diſpences bliſs.</l>
+                  <l>Rejoyces all thoſe Meads, where e're ſhe treads,</l>
+                  <l>Makes Junk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les ſmile, and Lupines bend their Heads.</l>
+                  <l>Toying with Nymphs, upon the flowry Green,</l>
+                  <l>When we <hi>Harmonia</hi> view, obſerve her Mein;</l>
+                  <l>Her words all Honey, and her Face ſerene.</l>
+                  <pb n="2" facs="tcp:108400:4"/>
+                  <l>The more we look, the more we all admire,</l>
+                  <l>So dangerous it is t'approach the Fire.</l>
+                  <l>Of ſweet <hi>Harmonia</hi>'s Eyes, more ſoft and bright,</l>
+                  <l>Than all the glitt'ring Stars that ſhine by Night.</l>
+                  <l>Directing Lovers in the pathleſs Grove,</l>
+                  <l>Where they fulfil the Miſteries of Love.</l>
+               </lg>
+               <lg>
+                  <l>To you bleſs'd Nymph, form'd with the utmoſt care,</l>
+                  <l>Of the ſame make, that brighteſt Angels are.</l>
+                  <l>Whoſe Sacred Breaſt, was never ſeen to move,</l>
+                  <l>And tho' all Harmony untouch'd to love.</l>
+                  <l>I who through Seas and Deſart Lands muſt go,</l>
+                  <l>Where none the pow'r of Love, or Beauty know.</l>
+                  <l>Unto rude Storms expos'd, and Winds which be,</l>
+                  <l>No leſs unconſtant, faithleſs as the Sea.</l>
+                  <l>
+                     <note n="*" place="margin">Thalia <hi>about whom there is a mighty puther and ſtir, is e<g ref="char:EOLhyphen"/>ſteem'd by</hi> He<g ref="char:EOLhyphen"/>fiod <hi>as one of the Graces, but by</hi> Homer <hi>as one of the Mu<g ref="char:EOLhyphen"/>ſes.</hi>
+                     </note> 
+                     <hi>Thalia,</hi> a Nymph of the inſpir'd Train,</l>
+                  <l>And Chief of them which on <hi>Parnaſſus</hi> reign;</l>
+                  <l>Begs your Aſſiſtance o're the wat'ry Main.</l>
+                  <l>That you the Queen of Heav'n wou'd move by Prayer,</l>
+                  <l>To take this Nymyh into her ſacred Care.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To <hi>Corinna,</hi> Mrs. <hi>B—ny.</hi>
+               </head>
+               <lg>
+                  <l>O Thou Celeſtial Nymph, within all bright,</l>
+                  <l>Without thy form all-beautious to the ſight.</l>
+                  <l>Than your ſnowy Breaſts, not <hi>April</hi> Flow'rs are,</l>
+                  <l>More lovely to the Eye, or half ſo fair;</l>
+                  <l>When they in all their glitt'ring Pomp appear.</l>
+                  <l>Put on a <hi>May-days</hi> dreſs, ſerenely ſmile,</l>
+                  <l>As when
+<note n="*" place="margin">A Countrey Nymph.</note> 
+                     <hi>Aletta</hi> did the Swain beguile.</l>
+                  <l>Make glad thoſe Banks thoſe Shades where Lovers meet,</l>
+                  <l>And words are melting as the Looks repeat.</l>
+               </lg>
+               <lg>
+                  <l>The Pink the
+<note n="*" place="margin">Honey-ſuckle.</note> Wood-bind, and the bluſhing Roſe,</l>
+                  <l>Which at the Spring, their beautious Charms diſcloſe</l>
+                  <l>Richly arraid, both pleaſant ſeem and Gay,</l>
+                  <l>While Morning Larks ſalute the riſing Day.</l>
+                  <l>The Nymphs and Swains in flow'ry Groves delight,</l>
+                  <l>With Mirth the Day, in Dreams they loſe the Night.</l>
+                  <pb n="3" facs="tcp:108400:4"/>
+                  <l>The purple Vilets from innamell'd Beds,</l>
+                  <l>Breath forth ſweet Odours and adorn the Meads.</l>
+               </lg>
+               <lg>
+                  <l>Yet you bright Nymph! at <hi>Autumn</hi> or at <hi>Spring,</hi>
+                  </l>
+                  <l>As Heavenly look, and as Divinely ſing.</l>
+                  <l>With equal Luſtre to your Eyes appear,</l>
+                  <l>And with your breath perfume the ambient Air.</l>
+                  <l>No adverſe Storms o're cloud <hi>Corinnas</hi> Mind,</l>
+                  <l>From all Impurities of Senſe refin'd.</l>
+                  <l>Chaſt as the Nymphs of the <hi>Aemomian</hi> Grove,</l>
+                  <l>And tho' by Nature promoted unto Love,</l>
+                  <l>Yet all her Thoughts are govern'd from above.</l>
+                  <l>Never did ſinful Paſſion yet moleſt,</l>
+                  <l>Or ſeize the calm and quiet of her Breaſt.</l>
+                  <l>The ſilver Girdle which ſurrounds her waſte,</l>
+                  <l>Sweet as <hi>Hymettian</hi> Honey to the taſte,</l>
+                  <l>Or Lovers kiſſes when they part in haſte.</l>
+               </lg>
+               <lg>
+                  <l>Since Heav'n to you has thus Indulgent been,</l>
+                  <l>Than whom a brighter Nymph no Eye hath ſeen;</l>
+                  <l>Humble with all the Graces of a Queen.</l>
+                  <l>
+                     <hi>Clio</hi> a Nymph of the <hi>Paeotian</hi> Spring,</l>
+                  <l>Where ſacred
+<note place="margin">The eight Muſes her Siſters.</note> Virgins unto <hi>Phoebus</hi> ſing.</l>
+                  <l>Conſtrain'd to leave theſe ſweet imbroider'd Groves,</l>
+                  <l>No more in Bow'rs to reſt or play with Doves.</l>
+                  <l>The modeſt Nymph to you, herſelf applies</l>
+                  <l>For Beauty, Goodneſs, triumphs in your Eyes.</l>
+                  <l>Secure from raging Storms, and Winds at Sea,</l>
+                  <l>If you to Heav'n her Advocate will be.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>To <hi>Sophronia,</hi> Mrs. <hi>S—mes.</hi>
+               </head>
+               <lg>
+                  <l>O Lovely Nymph! Of fair <hi>Jeſmenia</hi> born,</l>
+                  <l>That with your ſparkling looks theſe Vales adorn</l>
+                  <l>(Which lately did the bleſt <hi>Diana</hi> Mourn,)</l>
+                  <l>Where Shepherds ſtring their Lutes, and tune their Lays,</l>
+                  <l>To ſing your Beauty and reſound your Praiſe.</l>
+               </lg>
+               <lg>
+                  <l>Not <hi>Eve</hi> when ſhe in Paradiſe did walk,</l>
+                  <l>Her Lord diverting with her pretty talk;</l>
+                  <pb n="4" facs="tcp:108400:5"/>
+                  <l>(Of vernant Greens, and ſundry pleaſing Flow'rs,</l>
+                  <l>Of manling Times and ſweet ambroſial Bow'rs.)</l>
+                  <l>That Bliſs ineffable injoy'd are Sin,</l>
+                  <l>Her Features ſpoil'd and ſulli'd o're her skin.</l>
+                  <l>As chaſt <hi>Sophronia</hi> brighter Charmes diſplaid.</l>
+                  <l>A tender Virgin, and a Vaſtal Maid.</l>
+                  <l>The pride of all the beauteous Female Race,</l>
+                  <l>Woman in Form, but ſeraph in her Face,</l>
+                  <l>As if by <hi>Jove Sophronia</hi> were deſign'd,</l>
+                  <l>To be the gen'ral wonder of Mankind;</l>
+                  <l>In Body bright, tho' brighter far in Mind.</l>
+                  <l>Scarce Heav'n did e're a ſweeter Nymph create,</l>
+                  <l>In Look, and Mien, ſo perfectly compleat,</l>
+                  <l>So vaſtly good, and ſo immenſly great,</l>
+                  <l>Free in Diſcourſe, and eaſie of Acceſs,</l>
+                  <l>Courteous to all, and pleaſing in Addreſs.</l>
+                  <l>As Lillies white, pure as the
+<note n="*" place="margin">The ſacred Springs of the Pierides or Mu<g ref="char:EOLhyphen"/>ſes.</note> Springs her Breaſt,</l>
+                  <l>Still as approaching Day, or <hi>Haycyons</hi> Neſt;</l>
+                  <l>But when ſhe turns her lovely Head aſide,</l>
+                  <l>Extatick bliſs! Is by the Swain diſcry'd;</l>
+                  <l>The which before her golden Treſſes hide.</l>
+               </lg>
+               <lg>
+                  <l>Pardon me then (oh Nymph) that I your ſilent Hours,</l>
+                  <l>Diſturb, moleſt in ſtill <hi>Arcadias</hi> Bow'rs,</l>
+                  <l>As mild your Looks, as tender as thoſe Flow'rs.</l>
+                  <l>(On whoſe delicious Banks in ſoft repoſe,</l>
+                  <l>You of't to Pinks your Virgin Charms diſcloſe.)</l>
+                  <l>That I from Contemplation, rapture do,</l>
+                  <l>Your Mind divert to liſten to my woe,</l>
+                  <l>The fate <hi>Erato</hi> now, muſt undergo.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Ovid</hi> to <hi>Pontus</hi> was by <hi>Caeſar</hi> ſent,</l>
+                  <l>That diſtance might, the Poets love prevent,</l>
+                  <l>Yet <hi>Lycidas</hi> for certain words that are,</l>
+                  <l>Seldom o'th wiſe Thought worthy of their care.</l>
+                  <l>And at a time when from a rural Feaſt,</l>
+                  <l>The Swain came whittled with a Glaſs o'th beſt.</l>
+                  <l>Becauſe the Curds did ill upon his ſtomach ſet,</l>
+                  <l>That elſe conceiv'd no harm, and made him fret.</l>
+                  <l>A prey is ſent, the only Cauſe aſſign'd,</l>
+                  <l>Why he this riggid Penance is enjoyn'd.</l>
+               </lg>
+               <pb n="5" facs="tcp:108400:5"/>
+               <lg>
+                  <l>Wherefore to you <hi>Erato</hi> humbly ſues,</l>
+                  <l>Darling of <hi>Phoebus,</hi> and a ſpotleſs <hi>Muſe.</hi>
+                  </l>
+                  <l>The Nymph afraid to venture on the Main,</l>
+                  <l>Where bluſt'ring <hi>Neptune</hi> with the Sea-Gods Reign.</l>
+                  <l>
+                     <hi>Sophronia</hi> begs in her behalf to move,</l>
+                  <l>The bright Queen of Hea'vn, and the Queen of Love.</l>
+               </lg>
+            </div>
+            <argument>
+               <p>Theſe Three Epiſtles were occaſionally written by the Author when he thought to have made a Voyage to the <hi>Indies,</hi> but was prevented by Providence.</p>
+            </argument>
+         </div>
+         <div type="poem">
+            <head>On the young Duke of <hi>Holſtein,</hi> which I ſaw at the Acadamy in <hi>Holland,</hi> in the Year <hi>1692.</hi>
+            </head>
+            <epigraph>
+               <q>O' formoſe puer nimium ne crede Colori.</q>
+            </epigraph>
+            <lg>
+               <l>THink not O charming Youth. Becauſe you are,</l>
+               <l>As <hi>Phoebe</hi> bright, and as <hi>Minerva</hi> fair,</l>
+               <l>That Age the glory of your looks will ſpare.</l>
+               <l>Like ſpringing bloſoms which in Meadows grow,</l>
+               <l>When no rude Winds, but gentle Zephyrs blow.</l>
+               <l>A thouſand Charms your Princely Eyes diſplay,</l>
+               <l>Where <hi>Cupid</hi> wantons, and the Graces play.</l>
+               <l>All radiant are thoſe ſweet, thoſe Heav'nly Cheeks,</l>
+               <l>Which ev'ry tender Virgins heart beſpeaks.</l>
+               <l>When you for Loves Embraces ſhall be fit,</l>
+               <l>A Torch to <hi>Venus,</hi> or to <hi>Hymen</hi> light.</l>
+               <l>Not the bright
+<note n="*" place="margin">Ganymede.</note> Darling of the Gods above,</l>
+               <l>Rival of <hi>Juno,</hi> and delight of <hi>Jove.</hi>
+               </l>
+               <l>Nor <hi>Hylas,</hi> whom the Nymphs would hug and kiſs,</l>
+               <l>No harm conceiving in ſuch tender Bliſs.</l>
+               <l>Nay nor <hi>Adonis</hi> the delight o'th Groves,</l>
+               <l>His Iv'ry Neck more white than <hi>Venus</hi> Doves.</l>
+               <l>As you ſuch melting bluſhes e're reveal'd,</l>
+               <l>Pure as the Roſe, or Lilly of the Field.</l>
+               <l>Yet oh! Think not your Beauty always will,</l>
+               <l>The breaſts of Nymphs with ſoft deſire fill.</l>
+               <l>Vilets that flouriſh in the Month of <hi>May,</hi>
+               </l>
+               <l>Ere <hi>June</hi> is paſt, upon their Banks decay.</l>
+            </lg>
+            <lg>
+               <l>Beware then Royal Youth juſt Heav'ns pure Eye,</l>
+               <l>Will all the Secrets of your heart eſpy.</l>
+               <pb n="6" facs="tcp:108400:6"/>
+               <l>In ev'ry Act, O Prince, obſerve the end;</l>
+               <l>And ſhun what ere may modeſty offend.</l>
+               <l>A Jewel you of mighty worth poſſeſs,</l>
+               <l>Improve its Luſtre but ne'er make it leſs.</l>
+               <l>Urg'd by ſome God if you attend on Fame.</l>
+               <l>May <hi>Naſſau's</hi> glorious Deeds your Soul inflame.</l>
+               <l>Or if ſome Goddeſs from Heav'ns Battlements,</l>
+               <l>Love's ſecret Fire within your Breaſt foments.</l>
+               <l>O! May ſome glorious Nymph, of ſtamp Divine,</l>
+               <l>Around your Neck; her ſnowy Fingers twine.</l>
+               <l>And from your Loyns bright Goddeſſes be born,</l>
+               <l>To bleſs <hi>Germania,</hi> and her Groves adorn.</l>
+               <l>Whilſt you at length on wide extended Wing,</l>
+               <l>To Heaven May mount, and with <hi>Eliza</hi> ſing.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>To a Gentleman who recommended Sir <hi>Philip Sidney's Pembrooks Arcadia</hi> to my reading.</head>
+            <lg>
+               <l>THE Noble <hi>Sidney</hi> Great <hi>Appollo's</hi> Son,</l>
+               <l>(Who oft had bath'd it'h Streams of <hi>Helcion.</hi>)</l>
+               <l>The Author of that Book you ſo commend,</l>
+               <l>Juſtly deſerves the Praiſes which you ſend.</l>
+            </lg>
+            <lg>
+               <l>The ſacred <hi>Bard</hi> and <hi>Genius</hi> of his time,</l>
+               <l>Ancient ſome Words, his Thought and Stile ſublime.</l>
+               <l>But as with Faſhions ſo with Words it is,</l>
+               <l>If new they pleaſe, if old we them diſpiſe.</l>
+            </lg>
+            <lg>
+               <l>Much of your Choice (kind Sir) I here apprvoe,</l>
+               <l>For none like him Diſcourſes, Treats of Love.</l>
+               <l>The Reader in that Wit at once may find,</l>
+               <l>Joy to the Soul, and Rapture to the Mind.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>Thirſis</hi> and <hi>Corydon.</hi>
+            </head>
+            <sp>
+               <speaker>Th.</speaker>
+               <l>COuld <hi>Thirſis</hi> tell the pain which I endure,</l>
+               <l>Thoſe many ſighs that I have heav'd for her,</l>
+               <l>Could <hi>Thirſis</hi> tell the anguiſh of my Pain,</l>
+               <l>Surely the Nymph would not my love diſdain.</l>
+            </sp>
+            <pb n="7" facs="tcp:108400:6"/>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>Bright Innocence does in her Looks appear,</l>
+               <l>And all the Graces ſeem to triumph there.</l>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <l>Then how alaſs is't poſſible that ſhe,</l>
+               <l>Whoſe Soul of ſo Divine a Mould muſt be.</l>
+               <l>Can let a Lover ſpend his Days in Grief,</l>
+               <l>And ſtill refuſe to grant him ſome relief.</l>
+            </sp>
+            <sp>
+               <speaker>Co.</speaker>
+               <l>But prithy what Ear can ſhe unto you give,</l>
+               <l>If that in ſilent Shades and Groves you live.</l>
+               <l>Is it not for the Nymphs to ſay they love,</l>
+               <l>Or yet to Court that Swain which they would have.</l>
+               <l>Abandon Grief, and to the Nymph diſcloſe</l>
+               <l>Your Pain, your Thoughts perhaps ſhe may compoſe.</l>
+            </sp>
+            <sp>
+               <speaker>Th.</speaker>
+               <l>Thanks to <hi>Corydon,</hi> to theſe Shades all Hail,</l>
+               <l>Oft as you pipe, may you o're Nymphs prevail.</l>
+               <l>I to the glorious <hi>Thisbe</hi> will repair,</l>
+               <l>Than Lilly's and the blooming Roſe more fair.</l>
+               <l>But ſome bright Nymphs knowing their ſtrength is great,</l>
+               <l>Are yet more riggid than the Laws of Fate,</l>
+               <l>For where they moſt are loved, they moſt will hate.</l>
+            </sp>
+         </div>
+         <div type="poem">
+            <head>To a young Lady who deſired me to ſend her <hi>Paſtor-Fido.</hi>
+            </head>
+            <lg>
+               <l>HERE what each Nymph ſo tenderly has ſaid,</l>
+               <l>Worthy the view of ev'ry ſpotleſs Maid.</l>
+               <l>I in conformity to your commands,</l>
+               <l>Have by
+<note n="*" place="margin">A Page.</note> 
+                  <hi>Antonio</hi> ſent unto your Hands.</l>
+            </lg>
+            <lg>
+               <l>Flowry Meads, ſhady Groves, and purling Streams,</l>
+               <l>The which invite the Sun's luxuriant Beams.</l>
+               <l>And make him privy to thoſe Acts of Love,</l>
+               <l>Which by his bounteous warmth he doth improve.</l>
+            </lg>
+            <lg>
+               <l>Is what the Poet here diſcants upon,</l>
+               <l>Sincere his Love, and innocent his Song.</l>
+               <l>Yet lovely charming Fair, take this from me,</l>
+               <l>Of all theſe Nymphs there's not a Nymph like thee.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <g ref="char:V">Ʋ</g>pon a young Lady playing on the Eſpinette.</head>
+            <lg>
+               <l>A Fairer Creature Heav'n did ne'er create,</l>
+               <l>Lo! Shining Angels all around her wait.</l>
+               <pb n="8" facs="tcp:108400:7"/>
+               <l>When e're the Goddeſs ſhakes the tuneful ſtring,</l>
+               <l>As pleaſed each <hi>Seraph</hi> claps his ſplendid Wing.</l>
+            </lg>
+            <lg>
+               <l>Araid in light they hover all around,</l>
+               <l>So ſweet her looks, ſo moving is the ſound.</l>
+               <l>If we ſuch Glory in <hi>Belinda</hi> ſee,</l>
+               <l>O how pure! How bright muſt Heav'ns ſhril Choir be.</l>
+            </lg>
+            <lg>
+               <l>Divine in Mein, and negligent in Dreſs,</l>
+               <l>Her lovely Finger on the Key does preſs.</l>
+               <l>The willing Notes ſhe ſtrikes both true and clear,</l>
+               <l>At once ſhe Charmes and glads the Ear.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <g ref="char:V">Ʋ</g>pon a young Lady leaving of <hi>England.</hi>
+            </head>
+            <lg>
+               <l>HOW fading are the empty Joys on Earth,</l>
+               <l>Ev'n ſweeteſt Pleaſures vaniſh in their Birth.</l>
+               <l>The ſparkling Sun, the Moon and Stars go round,</l>
+               <l>Nothing thro' the wide Globe is conſtant found.</l>
+            </lg>
+            <lg>
+               <l>This lovely Nymph, a <hi>Venus</hi> in her Charmes,</l>
+               <l>Soft as her Eyes, and tender as her Arms.</l>
+               <l>No longer now in <hi>Britains</hi> Iſle will ſtay,</l>
+               <l>But to remoteſt Regions flies away.</l>
+            </lg>
+            <lg>
+               <l>So once when Angels viſited below,</l>
+               <l>They unto Man their radiant Luſtre ſhew.</l>
+               <l>Yet leaſt with Saints, he ſhould familiar grow.</l>
+               <l>They ſtrait to Heav'n their glorious Forms withdraw.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <g ref="char:V">Ʋ</g>pon the Death of Mrs. <hi>Anne P—ch.</hi>
+            </head>
+            <lg>
+               <l>HOW large Myſterious is the Pow'r of Fate,</l>
+               <l>Deſtroying ſtill, oft as the Gods create.</l>
+               <l>This Heav'nly Nymph pure as the Morning Star,</l>
+               <l>Or bright <hi>Aurora</hi> in her glitt'ring Char.</l>
+               <l>High Empreſs o'th Day, whoſe ſmiles command,</l>
+               <l>More than the Scepter in a Monarch's Hand.</l>
+               <l>Each od'rous Flow'r, the Vilet, Pink and Roſe,</l>
+               <l>To her the treaſure of their Sweets diſcloſe.</l>
+               <pb n="9" facs="tcp:108400:7"/>
+               <l>Whilſt gentle Swains lye ſlumb'ring in the Mead,</l>
+               <l>And e're the peaceful Flocks ariſe to feed.</l>
+               <l>Yet O! the Nymph that once appear'd ſo bright,</l>
+               <l>Set on her Charmes in everlaſting Night.</l>
+               <l>No more will the <hi>Arcadian</hi> Groves rejoyce,</l>
+               <l>Or bleſs the Meads with her harmonious Voice.</l>
+               <l>On the cold Earth that tender Boſomes laid,</l>
+               <l>Which to the Youth a Heav'n of bliſs diſplay'd,</l>
+               <l>When they at <hi>Leu, Baſſet,</hi> or <hi>Omber</hi> plaid.</l>
+               <l>All froſen are thoſe Limbs, and Arms which muſt,</l>
+               <l>With her ſoft Fingers crumble into Duſt.</l>
+               <l>Let therefore now this ſhort Inſcription be,</l>
+               <l>Grav'd on her Tomb for ev'ry Nymph to ſee.</l>
+            </lg>
+            <epigraph>
+               <q>
+                  <l>Dum juga montis aper, fluvios dum piſcis amabit,</l>
+                  <l>Dumque Thymo paſſentur apes, dum rore cicadae,</l>
+                  <l>Semper honos nomenque tuum laudeſque in anebimt.</l>
+                  <bibl>Virg. Ecl. v.</bibl>
+               </q>
+            </epigraph>
+         </div>
+         <div type="poem">
+            <head>The VISIT.</head>
+            <lg>
+               <l>ON a bleſt Eue when the mild <hi>Daphnis</hi> went,</l>
+               <l>And with <hi>Aurelia</hi> ſome gentle Hours ſpent.</l>
+               <l>That to the youthful Swain was ever kind,</l>
+               <l>Till fate Uſurp'd the Empire of her Mind.</l>
+               <l>Noble <hi>Floralia</hi> with bright ſparkling Eyes,</l>
+               <l>Rich in her Cloaths, and of a beautious ſiſe,</l>
+               <l>Came ſmiling in, the Gameſters to ſurpriſe.</l>
+               <l>The Cards put up, each Chair was caus'd to move,</l>
+               <l>On which were wrought a thouſand Tales of Love.</l>
+               <l>By chaſt <hi>Arcadian</hi> Nymphs which all excell,</l>
+               <l>That on this ſolid Globe as Pilgrims dwell,</l>
+               <l>Their and our Doom are ſince old <hi>Adam</hi> fell.</l>
+               <l>Her Tippet from her Neck <hi>Floralia</hi> drew,</l>
+               <l>And to the Swain her naked boſome ſhew.</l>
+               <l>A Scene of bliſs reveal'd more white than Snow,</l>
+               <l>Exceeding all our groveling Thoughts below.</l>
+               <l>A deal of pleaſant Chat amongſt them paſt,</l>
+               <l>How fair was <hi>Caelia</hi> and how ſmall her waſte?</l>
+               <l>What handſom Swain a Virgins Heart poſſeſt,</l>
+               <l>Who finely Danc'd, and who moſt nicely dreſt?</l>
+               <l>Yet oh! On Earth the greateſt Bliſs we find,</l>
+               <l>Is but two Minutes or few Days confin'd.</l>
+               <pb n="10" facs="tcp:108400:8"/>
+               <l>The Night advanc'd, nor cou'd <hi>Floralia</hi> ſtay,</l>
+               <l>She roſe ſhe took her Fan and went away,</l>
+               <l>When I and chaſt <hi>Aurelia,</hi> fell to play.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>PHILOMELA.</head>
+            <lg>
+               <l>WHen glorious <hi>Sol</hi> had quit the crimſon Eaſt,</l>
+               <l>And gently drove his Chariot to the Weſt.</l>
+               <l>Fair <hi>Philomel</hi> within a ſhady Bow'r,</l>
+               <l>Sat making Noſegays of the <hi>Jes'min</hi> Flow'r.</l>
+               <l>Pleaſed with her ſoft retreat, the lovely Maid,</l>
+               <l>Upon the Bank her Gloves and Tippet laid.</l>
+               <l>Where ſparking Jacinths with the Lillies twine,</l>
+               <l>Bright as thoſe Gems which o're Mount <hi>Aetna</hi> ſhine.</l>
+               <l>Oft as the Queen of Night aſcends her Throne,</l>
+               <l>Viſits the Groves and caſts her Influence down.</l>
+               <l>The Nymph fearing no harm divinely Sung,</l>
+               <l>Hymns chaſt <hi>Atonena</hi> to her Th'orbo ſtrung,</l>
+               <l>Whilſt all her Hair and Garments looſely hung.</l>
+               <l>Each wanton <hi>Zephyr</hi> with the muſlin plaid,</l>
+               <l>Which on her ſmooth and ſnowy Boſome laid.</l>
+               <l>Yet oh! when chearful Birds begun to ſing,</l>
+               <l>Hopping from Bough to Bough, and Spring to Spring.</l>
+               <l>When the wide Plain, each parly Mead was ſtill,</l>
+               <l>And Turtles with their Mates would Coo and Bill.</l>
+               <l>A Youth well dreſt, but of a haughty Mein,</l>
+               <l>That oft at Seiges, and at Fights had been.</l>
+               <l>Fearing no Colours, where the Prize was Love,</l>
+               <l>Boldly he ſtept into the <hi>Cyprian</hi> Grove.</l>
+               <l>The Nymphs to gather Primroſes were gone,</l>
+               <l>That Day, and left fair <hi>Philomel</hi> alone.</l>
+               <l>The charming Nymph ſurpriſed— to ſee a Man,</l>
+               <l>Ne'er ſtaid to take her Tippet, Gloves, or Fan,</l>
+               <l>But haſtily from out the Arbour ran.</l>
+               <l>(Noſegays and Flow'rs there in abundance fell,</l>
+               <l>From of her fragrant Lap) that cou'd not tell;</l>
+               <l>Which way to go, incompas'd all around,</l>
+               <l>With Dangers thick, as Vilets on the Ground.</l>
+               <l>A thouſand ways the Nymph eſſay'd! at laſt,</l>
+               <l>She took her heels, but ran ſo mighty faſt.</l>
+               <l>That quickly ſhe was out of breath, and fain</l>
+               <l>To looſe her Stays, or ſhe had dy'd with pain.</l>
+               <pb n="11" facs="tcp:108400:8"/>
+               <l>Bright <hi>Juno</hi> then, of her Compaſſion took,</l>
+               <l>Grieving to ſee how <hi>Philomela</hi> ſhook</l>
+               <l>With fear, ſent down a bleſs'd Celeſtial Maid,</l>
+               <l>That from the <hi>Grecian</hi> Youth the Nymph convey'd.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>To make a Married Life happy.</head>
+            <lg>
+               <l>A Brisk young Wife, who did a Fortune bring,</l>
+               <l>Proves to her Husband a vexatious Thing;</l>
+               <l>Yet thoſe advantages to him ſhe gives,</l>
+               <l>By her, in his Poſterity, he lives.</l>
+               <l>She takes of him, when ſick, a prudent Care</l>
+               <l>In his misfortunes bears an equal ſhare;</l>
+               <l>To her, for eaſe, he does his Griefs impart,</l>
+               <l>Her pleaſant Converſe often chears his heart;</l>
+               <l>And when (if ſhe ſurvive) he ends his Life,</l>
+               <l>She does the Office of a pious Wife;</l>
+               <l>Set theſe againſt her Ills, and you will find,</l>
+               <l>Reaſons to quiet your uneaſie Mind.</l>
+               <l>But if you'll ſtrive her temper to reclaim,</l>
+               <l>Slight theſe good Things, the bad expoſe to ſhame,</l>
+               <l>And no Compliance to her humour lend,</l>
+               <l>To your vexations ne'er ſhall be an end.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>A DREAM.</head>
+            <lg>
+               <l>ONE Night, with ſleep my Senſes being oppreſt,</l>
+               <l>Fixt on that Thought, which ſtill o'er rul'd my Breaſt.</l>
+               <l>In Mourning dreſs, with ſilence did appear,</l>
+               <l>She of her Sex was to my Soul moſt dear.</l>
+               <l>
+                  <hi>Cinthia,</hi> methought, I ſaid, and gaz'd a while,</l>
+               <l>Where's thy accuſtom'd Look, and chearful Smile;</l>
+               <l>What ſad occaſion thus diſturbs thee now,</l>
+               <l>And hangs that gloomy ſadneſs on thy Brow.</l>
+               <l>She only ſigh'd, and off'ring to depart,</l>
+               <l>I ſnatch'd her Hand, and laid it to my Heart;</l>
+               <l>And whilſt I in this trembling Rapture ſtand,</l>
+               <l>She took, and held me by my other Hand.</l>
+               <l>I thought my Heart 'twixt Joy and Grief would break,</l>
+               <l>Adding with Tears, my Dear, I prithee ſpeak,</l>
+               <l>And graſp'd her faſt, ſhe ſtrugling to be gone,</l>
+               <l>Till wak'd; but then I found my ſelf alone.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="12" facs="tcp:108400:9"/>
+            <head>The Miſeries attending Mankind.</head>
+            <lg>
+               <l>OH Miſery of Mankind! For at the Bar</l>
+               <l>Are Strifes and Quarrels; at our Houſes Care,</l>
+               <l>In Fields hard Labour, Dangers on the Sea;</l>
+               <l>Who Travels rich, can ne'er from Fears be free.</l>
+               <l>Grievous is want; Marriage eternal Strife:</l>
+               <l>A ſingle, is a ſolitary Life.</l>
+               <l>Children bring Care and Trouble, to have none,</l>
+               <l>The Happineſs of Wedlock is not known.</l>
+               <l>Our Youth, is Folly e'er we can grow wiſe,</l>
+               <l>We're Old, and loaded with Infirmities.</l>
+               <l>So we may wiſh, who have the Experience try'd;</l>
+               <l>That we had ne'er been born; Or, ſoon as born had dy'd.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>To HIMSELF.</head>
+            <lg>
+               <l>WHEN fumes of Wine aſcend into my Brain;</l>
+               <l>Care ſleeps, and I the buſtling World diſdain,</l>
+               <l>Nor all the Wealth of <hi>Creſſus</hi> I eſteem,</l>
+               <l>I ſing of Mirth, for Jollity's my Theme.</l>
+               <l>With Garlands, I my ruby Temples Crown,</l>
+               <l>Keeping rebellious Thoughts of buſineſs down,</l>
+               <l>In Broyls, and Wars, while others take delight,</l>
+               <l>I with choice Friends indulge my Appitite.</l>
+               <l>Then fetch more Bottles, boy, and Charge us round,</l>
+               <l>We'll fall to <hi>Bacchus,</hi> Victims on the ground;</l>
+               <l>Nor value what dull Moraliſts have ſed,</l>
+               <l>I'm ſure 'tis better to be Drunk, than Dead.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>On a Lady Stabbing her ſelf.</head>
+            <lg>
+               <l>A Lady Inflam'd with Anger, Grief and Shame;</l>
+               <l>Deſpiſing Life, yet careful of her Fame,</l>
+               <l>Wounds her fair Breaſt, tho' arm'd with Innocence,</l>
+               <l>Could ſuffer Death, but could not the Offence.</l>
+               <l>Her Steel was ſharp, her End with Glory Crown'd,</l>
+               <l>She ſought Revenge, and valu'd not the Wound,</l>
+               <l>This ſo appeas'd her Rage, that being Dead,</l>
+               <l>She look'd like one reveng'd not Injured.</l>
+               <l>'Twas Beauty ſinn'd, (ſaid ſhe,) then let it dye,</l>
+               <l>That forc'd me to this laſt Extremity;</l>
+               <l>Were't not for Beauty I had guiltleſs been,</l>
+               <l>For it was That made luſtful <hi>Tarquin</hi> Sin.</l>
+               <l>So I to Violence a Prey was made,</l>
+               <l>No Tears avail'd when Vertue was betray'd.</l>
+               <l>Haughty he was, my Beauty proud as he,</l>
+               <l>They made me Slave, but thus my ſelf I free.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <p>
+               <hi>Note,</hi> There will ſhortly be Publiſh'd by the ſame Author a <hi>Panegyrick</hi> in Verſe, together with ſome other <hi>Poems.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
